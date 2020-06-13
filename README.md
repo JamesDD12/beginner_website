@@ -4,3 +4,7 @@
 
 The most basic free website that a total beginner can create!
 
+![Simulator Rig](Simulator_rev00.png)
+
+**Happy Gaming!**
+*James*
