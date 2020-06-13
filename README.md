@@ -2,8 +2,6 @@
 
 ### Hello World! We are a start up company based in Galway Ireland.
 
-The most basic free website that a total beginner can create!
-
 ![Simulator Rig](Simulator_rev00.png)
 
 **Happy Gaming!**
